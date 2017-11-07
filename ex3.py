@@ -4,7 +4,7 @@ print("I will now count my chickens:")
 # Prints the number of hens 
 print("Hens", 25 + 30 / 6)
 # Prints the number of roosters
-print("Roosters", 100 - 25 * 3 % 4)
+print("Roosters", 100 - 25 * 3 % 4 / 1)
 
 # Informs the user that eggs will be counted
 print("Now I will count the eggs:")
@@ -16,12 +16,12 @@ print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
 print("Is it true that 3 + 2 < 5 - 7?")
 
 # Calculates whether it's True or False
-print(3 + 2 < 5 - 7)
+print(3 + 2 < 5 - 7 / 1)
 
 # Prints a question, calculates the answer
-print("What is 3 + 2?", 3 + 2)
+print("What is 3 + 2?", 3 + 2 / 1)
 # Prints question and answer
-print("What is 5 - 7?", 5 - 7)
+print("What is 5 - 7?", 5 - 7 / 1)
 
 # Informs user that it's false
 print("Oh, that's why it's False.")
@@ -30,9 +30,9 @@ print("Oh, that's why it's False.")
 print("How about some more.")
 
 # Asks questions, calculates answers
-print("Is it greater?", 5 > -2)
-print("Is it greater or equal?", 5 >= -2)
-print("Is it less or equal?", 5 <= -2)
+print("Is it greater?", 5 > -2 / 1)
+print("Is it greater or equal?", 5 >= -2 / 1)
+print("Is it less or equal?", 5 <= -2 / 1)
 
 
 # Exercise: 
